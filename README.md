@@ -2,7 +2,7 @@
 Auto correct words in Arabic
 
 # execution example
-
+<img src="image/sample.jpeg" alt="Checkers Player Game">
 
 
 # dataset
