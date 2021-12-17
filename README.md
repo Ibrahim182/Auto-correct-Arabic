@@ -1,6 +1,8 @@
 # Auto-correct-Arabic-
 Auto correct words in Arabic
 
+# execution example
+``` shell
 naive@bayes:~/autocorrect$ python3 ar_autocorrect.py
 corpus with 9203724 words
 write your sentence:
@@ -17,6 +19,8 @@ suggestion for wordهو is هو
 suggestion for wordامتل is احتل
 suggestion for wordاستثماز is استثمار
 العلم هو احتل استثمار
+
+```العلم هو احتل استثمار
 
 # dataset
 - the vocabulary is built from [Egyptian Arabic wikipedia](https://drive.google.com/file/d/1bgDu-LFQRB0wHGtRCCqJW5Gg_4DDDB0G/view?usp=sharing), make sure to install it under directory data
