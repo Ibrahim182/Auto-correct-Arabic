@@ -2,7 +2,9 @@
 Auto correct words in Arabic
 
 # execution example
-''' shell
+
+''' 
+shell
 naive@bayes:~/autocorrect$ python3 ar_autocorrect.py
 corpus with 9203724 words
 write your sentence:
@@ -19,8 +21,9 @@ suggestion for wordهو is هو
 suggestion for wordامتل is احتل
 suggestion for wordاستثماز is استثمار
 العلم هو احتل استثمار
+العلم هو احتل استثمار
+''' 
 
-''' العلم هو احتل استثمار
 
 
 # dataset
